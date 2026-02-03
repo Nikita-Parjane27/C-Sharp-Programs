@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\bin\Debug\net10.0\Addition.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\bin\Debug\net10.0\Addition.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\bin\Debug\net10.0\Addition.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\bin\Debug\net10.0\Addition.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\bin\Debug\net10.0\Addition.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\refint\Addition.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\Addition.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Addition\obj\Debug\net10.0\ref\Addition.dll

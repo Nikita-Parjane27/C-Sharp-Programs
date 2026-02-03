@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\bin\Debug\net10.0\Hello.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\bin\Debug\net10.0\Hello.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\bin\Debug\net10.0\Hello.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\bin\Debug\net10.0\Hello.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\bin\Debug\net10.0\Hello.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\refint\Hello.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\Hello.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Hello\obj\Debug\net10.0\ref\Hello.dll

@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\bin\Debug\net10.0\IntegerNumber.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\bin\Debug\net10.0\IntegerNumber.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\bin\Debug\net10.0\IntegerNumber.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\bin\Debug\net10.0\IntegerNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\bin\Debug\net10.0\IntegerNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\refint\IntegerNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\IntegerNumber.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\IntegerNumber\obj\Debug\net10.0\ref\IntegerNumber.dll

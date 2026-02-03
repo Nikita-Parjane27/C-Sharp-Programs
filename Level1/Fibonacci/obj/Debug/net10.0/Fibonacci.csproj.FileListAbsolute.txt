@@ -1,0 +1,4 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Fibonacci\obj\Debug\net10.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Fibonacci\obj\Debug\net10.0\Fibonacci.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Fibonacci\obj\Debug\net10.0\Fibonacci.csproj.CoreCompileInputs.cache

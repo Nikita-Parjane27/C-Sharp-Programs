@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\bin\Debug\net10.0\SwapNumber.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\bin\Debug\net10.0\SwapNumber.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\bin\Debug\net10.0\SwapNumber.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\bin\Debug\net10.0\SwapNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\bin\Debug\net10.0\SwapNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\refint\SwapNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\SwapNumber.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SwapNumber\obj\Debug\net10.0\ref\SwapNumber.dll

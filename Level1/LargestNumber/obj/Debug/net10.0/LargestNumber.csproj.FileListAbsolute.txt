@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\bin\Debug\net10.0\LargestNumber.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\bin\Debug\net10.0\LargestNumber.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\bin\Debug\net10.0\LargestNumber.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\bin\Debug\net10.0\LargestNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\bin\Debug\net10.0\LargestNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\refint\LargestNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\LargestNumber.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\LargestNumber\obj\Debug\net10.0\ref\LargestNumber.dll

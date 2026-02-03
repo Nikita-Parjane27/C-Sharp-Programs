@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\bin\Debug\net10.0\DigitCount.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\bin\Debug\net10.0\DigitCount.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\bin\Debug\net10.0\DigitCount.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\bin\Debug\net10.0\DigitCount.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\bin\Debug\net10.0\DigitCount.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\refint\DigitCount.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\DigitCount.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\DigitCount\obj\Debug\net10.0\ref\DigitCount.dll

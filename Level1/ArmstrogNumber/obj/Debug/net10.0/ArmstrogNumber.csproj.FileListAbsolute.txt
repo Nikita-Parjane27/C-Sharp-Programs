@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\bin\Debug\net10.0\ArmstrogNumber.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\bin\Debug\net10.0\ArmstrogNumber.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\bin\Debug\net10.0\ArmstrogNumber.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\bin\Debug\net10.0\ArmstrogNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\bin\Debug\net10.0\ArmstrogNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\refint\ArmstrogNumber.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ArmstrogNumber.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\ArmstrogNumber\obj\Debug\net10.0\ref\ArmstrogNumber.dll

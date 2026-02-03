@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\bin\Debug\net10.0\SumDigit.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\bin\Debug\net10.0\SumDigit.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\bin\Debug\net10.0\SumDigit.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\bin\Debug\net10.0\SumDigit.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\bin\Debug\net10.0\SumDigit.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\refint\SumDigit.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\SumDigit.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\SumDigit\obj\Debug\net10.0\ref\SumDigit.dll

@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\bin\Debug\net10.0\GCD_LCM.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\bin\Debug\net10.0\GCD_LCM.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\bin\Debug\net10.0\GCD_LCM.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\bin\Debug\net10.0\GCD_LCM.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\bin\Debug\net10.0\GCD_LCM.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\refint\GCD_LCM.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\GCD_LCM.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\GCD_LCM\obj\Debug\net10.0\ref\GCD_LCM.dll

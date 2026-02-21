@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\bin\Debug\net10.0\Convert_Celsius_Farenhit.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\bin\Debug\net10.0\Convert_Celsius_Farenhit.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\bin\Debug\net10.0\Convert_Celsius_Farenhit.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\bin\Debug\net10.0\Convert_Celsius_Farenhit.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\bin\Debug\net10.0\Convert_Celsius_Farenhit.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\refint\Convert_Celsius_Farenhit.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\Convert_Celsius_Farenhit.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Convert_Celsius_Farenhit\obj\Debug\net10.0\ref\Convert_Celsius_Farenhit.dll

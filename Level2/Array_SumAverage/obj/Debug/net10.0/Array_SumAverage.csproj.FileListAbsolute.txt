@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\bin\Debug\net10.0\Array_SumAverage.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\bin\Debug\net10.0\Array_SumAverage.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\bin\Debug\net10.0\Array_SumAverage.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\bin\Debug\net10.0\Array_SumAverage.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\bin\Debug\net10.0\Array_SumAverage.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\refint\Array_SumAverage.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\Array_SumAverage.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Array_SumAverage\obj\Debug\net10.0\ref\Array_SumAverage.dll

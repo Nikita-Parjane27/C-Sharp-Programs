@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\bin\Debug\net10.0\Nullable_Types.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\bin\Debug\net10.0\Nullable_Types.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\bin\Debug\net10.0\Nullable_Types.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\bin\Debug\net10.0\Nullable_Types.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\bin\Debug\net10.0\Nullable_Types.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\refint\Nullable_Types.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\Nullable_Types.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Nullable_Types\obj\Debug\net10.0\ref\Nullable_Types.dll

@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\bin\Debug\net10.0\CheckPrimeNumbers.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\bin\Debug\net10.0\CheckPrimeNumbers.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\bin\Debug\net10.0\CheckPrimeNumbers.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\bin\Debug\net10.0\CheckPrimeNumbers.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\bin\Debug\net10.0\CheckPrimeNumbers.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\refint\CheckPrimeNumbers.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\CheckPrimeNumbers.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CheckPrimeNumbers\obj\Debug\net10.0\ref\CheckPrimeNumbers.dll

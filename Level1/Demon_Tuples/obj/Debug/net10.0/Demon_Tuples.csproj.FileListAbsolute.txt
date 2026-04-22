@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\bin\Debug\net10.0\Demon_Tuples.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\bin\Debug\net10.0\Demon_Tuples.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\bin\Debug\net10.0\Demon_Tuples.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\bin\Debug\net10.0\Demon_Tuples.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\bin\Debug\net10.0\Demon_Tuples.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\refint\Demon_Tuples.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\Demon_Tuples.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demon_Tuples\obj\Debug\net10.0\ref\Demon_Tuples.dll

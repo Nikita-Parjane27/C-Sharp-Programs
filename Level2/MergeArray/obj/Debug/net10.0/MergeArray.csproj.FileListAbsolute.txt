@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\bin\Debug\net10.0\MergeArray.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\bin\Debug\net10.0\MergeArray.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\bin\Debug\net10.0\MergeArray.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\bin\Debug\net10.0\MergeArray.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\bin\Debug\net10.0\MergeArray.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\refint\MergeArray.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\MergeArray.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\MergeArray\obj\Debug\net10.0\ref\MergeArray.dll

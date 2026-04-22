@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\bin\Debug\net10.0\Remove_Duplicates.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\refint\Remove_Duplicates.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\Remove_Duplicates.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Remove_Duplicates\obj\Debug\net10.0\ref\Remove_Duplicates.dll

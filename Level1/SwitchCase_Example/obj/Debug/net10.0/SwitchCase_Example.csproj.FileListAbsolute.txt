@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\bin\Debug\net10.0\SwitchCase_Example.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\bin\Debug\net10.0\SwitchCase_Example.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\bin\Debug\net10.0\SwitchCase_Example.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\bin\Debug\net10.0\SwitchCase_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\bin\Debug\net10.0\SwitchCase_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\refint\SwitchCase_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\SwitchCase_Example.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\SwitchCase_Example\obj\Debug\net10.0\ref\SwitchCase_Example.dll

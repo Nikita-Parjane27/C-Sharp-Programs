@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\bin\Debug\net10.0\PrimeNumbers.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\refint\PrimeNumbers.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\PrimeNumbers\obj\Debug\net10.0\ref\PrimeNumbers.dll

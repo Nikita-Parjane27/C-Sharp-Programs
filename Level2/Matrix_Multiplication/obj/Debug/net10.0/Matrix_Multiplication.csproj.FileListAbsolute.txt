@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\bin\Debug\net10.0\Matrix_Multiplication.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\bin\Debug\net10.0\Matrix_Multiplication.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\bin\Debug\net10.0\Matrix_Multiplication.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\bin\Debug\net10.0\Matrix_Multiplication.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\bin\Debug\net10.0\Matrix_Multiplication.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\refint\Matrix_Multiplication.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\Matrix_Multiplication.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Matrix_Multiplication\obj\Debug\net10.0\ref\Matrix_Multiplication.dll

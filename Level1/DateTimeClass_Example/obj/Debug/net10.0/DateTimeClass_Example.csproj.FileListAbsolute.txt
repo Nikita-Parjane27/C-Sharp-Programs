@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\bin\Debug\net10.0\DateTimeClass_Example.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\bin\Debug\net10.0\DateTimeClass_Example.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\bin\Debug\net10.0\DateTimeClass_Example.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\bin\Debug\net10.0\DateTimeClass_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\bin\Debug\net10.0\DateTimeClass_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\refint\DateTimeClass_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\DateTimeClass_Example.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DateTimeClass_Example\obj\Debug\net10.0\ref\DateTimeClass_Example.dll

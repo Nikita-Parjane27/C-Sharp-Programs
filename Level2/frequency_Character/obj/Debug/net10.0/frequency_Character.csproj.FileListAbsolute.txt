@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\bin\Debug\net10.0\frequency_Character.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\bin\Debug\net10.0\frequency_Character.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\bin\Debug\net10.0\frequency_Character.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\bin\Debug\net10.0\frequency_Character.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\bin\Debug\net10.0\frequency_Character.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\refint\frequency_Character.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\frequency_Character.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\frequency_Character\obj\Debug\net10.0\ref\frequency_Character.dll

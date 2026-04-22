@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\bin\Debug\net10.0\StringbuilderDemo.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\bin\Debug\net10.0\StringbuilderDemo.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\bin\Debug\net10.0\StringbuilderDemo.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\bin\Debug\net10.0\StringbuilderDemo.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\bin\Debug\net10.0\StringbuilderDemo.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\refint\StringbuilderDemo.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\StringbuilderDemo.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\StringbuilderDemo\obj\Debug\net10.0\ref\StringbuilderDemo.dll

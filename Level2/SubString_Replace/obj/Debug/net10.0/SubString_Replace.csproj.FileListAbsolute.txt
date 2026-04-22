@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\bin\Debug\net10.0\SubString_Replace.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\bin\Debug\net10.0\SubString_Replace.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\bin\Debug\net10.0\SubString_Replace.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\bin\Debug\net10.0\SubString_Replace.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\bin\Debug\net10.0\SubString_Replace.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\refint\SubString_Replace.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\SubString_Replace.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\SubString_Replace\obj\Debug\net10.0\ref\SubString_Replace.dll

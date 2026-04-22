@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\bin\Debug\net10.0\Maximum.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\bin\Debug\net10.0\Maximum.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\bin\Debug\net10.0\Maximum.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\bin\Debug\net10.0\Maximum.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\bin\Debug\net10.0\Maximum.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\refint\Maximum.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\Maximum.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Maximum\obj\Debug\net10.0\ref\Maximum.dll

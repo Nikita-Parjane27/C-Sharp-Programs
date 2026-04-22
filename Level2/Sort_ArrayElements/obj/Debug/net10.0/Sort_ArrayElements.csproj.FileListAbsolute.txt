@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\bin\Debug\net10.0\Sort_ArrayElements.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\bin\Debug\net10.0\Sort_ArrayElements.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\bin\Debug\net10.0\Sort_ArrayElements.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\bin\Debug\net10.0\Sort_ArrayElements.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\bin\Debug\net10.0\Sort_ArrayElements.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\refint\Sort_ArrayElements.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\Sort_ArrayElements.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Sort_ArrayElements\obj\Debug\net10.0\ref\Sort_ArrayElements.dll

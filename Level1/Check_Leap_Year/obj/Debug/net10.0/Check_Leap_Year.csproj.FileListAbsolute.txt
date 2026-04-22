@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\bin\Debug\net10.0\Check_Leap_Year.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\bin\Debug\net10.0\Check_Leap_Year.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\bin\Debug\net10.0\Check_Leap_Year.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\bin\Debug\net10.0\Check_Leap_Year.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\bin\Debug\net10.0\Check_Leap_Year.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\refint\Check_Leap_Year.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\Check_Leap_Year.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Check_Leap_Year\obj\Debug\net10.0\ref\Check_Leap_Year.dll

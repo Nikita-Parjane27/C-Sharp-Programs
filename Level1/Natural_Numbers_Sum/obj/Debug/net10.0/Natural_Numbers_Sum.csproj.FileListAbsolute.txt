@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\bin\Debug\net10.0\Natural_Numbers_Sum.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\bin\Debug\net10.0\Natural_Numbers_Sum.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\bin\Debug\net10.0\Natural_Numbers_Sum.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\bin\Debug\net10.0\Natural_Numbers_Sum.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\bin\Debug\net10.0\Natural_Numbers_Sum.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\refint\Natural_Numbers_Sum.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\Natural_Numbers_Sum.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Natural_Numbers_Sum\obj\Debug\net10.0\ref\Natural_Numbers_Sum.dll

@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\bin\Debug\net10.0\Palindrome_String.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\bin\Debug\net10.0\Palindrome_String.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\bin\Debug\net10.0\Palindrome_String.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\bin\Debug\net10.0\Palindrome_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\bin\Debug\net10.0\Palindrome_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\refint\Palindrome_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\Palindrome_String.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Palindrome_String\obj\Debug\net10.0\ref\Palindrome_String.dll

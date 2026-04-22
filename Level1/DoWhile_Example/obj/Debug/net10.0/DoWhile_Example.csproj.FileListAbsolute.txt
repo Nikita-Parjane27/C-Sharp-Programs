@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\bin\Debug\net10.0\DoWhile_Example.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\bin\Debug\net10.0\DoWhile_Example.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\bin\Debug\net10.0\DoWhile_Example.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\bin\Debug\net10.0\DoWhile_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\bin\Debug\net10.0\DoWhile_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\refint\DoWhile_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\DoWhile_Example.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\DoWhile_Example\obj\Debug\net10.0\ref\DoWhile_Example.dll

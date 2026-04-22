@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\bin\Debug\net10.0\Contants_Readonly.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\bin\Debug\net10.0\Contants_Readonly.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\bin\Debug\net10.0\Contants_Readonly.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\bin\Debug\net10.0\Contants_Readonly.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\bin\Debug\net10.0\Contants_Readonly.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\refint\Contants_Readonly.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\Contants_Readonly.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Contants_Readonly\obj\Debug\net10.0\ref\Contants_Readonly.dll

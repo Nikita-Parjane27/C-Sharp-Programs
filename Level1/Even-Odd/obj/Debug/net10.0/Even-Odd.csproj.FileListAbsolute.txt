@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\bin\Debug\net10.0\Even-Odd.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\bin\Debug\net10.0\Even-Odd.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\bin\Debug\net10.0\Even-Odd.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\bin\Debug\net10.0\Even-Odd.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\bin\Debug\net10.0\Even-Odd.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\refint\Even-Odd.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\Even-Odd.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Even-Odd\obj\Debug\net10.0\ref\Even-Odd.dll

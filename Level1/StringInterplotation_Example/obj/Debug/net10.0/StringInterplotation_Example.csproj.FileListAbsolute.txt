@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\bin\Debug\net10.0\StringInterplotation_Example.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\bin\Debug\net10.0\StringInterplotation_Example.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\bin\Debug\net10.0\StringInterplotation_Example.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\bin\Debug\net10.0\StringInterplotation_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\bin\Debug\net10.0\StringInterplotation_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\refint\StringInterplotation_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\StringInterplotation_Example.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\StringInterplotation_Example\obj\Debug\net10.0\ref\StringInterplotation_Example.dll

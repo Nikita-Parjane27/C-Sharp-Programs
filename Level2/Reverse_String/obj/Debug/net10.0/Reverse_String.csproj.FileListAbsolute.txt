@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\bin\Debug\net10.0\Reverse_String.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\bin\Debug\net10.0\Reverse_String.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\bin\Debug\net10.0\Reverse_String.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\bin\Debug\net10.0\Reverse_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\bin\Debug\net10.0\Reverse_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\refint\Reverse_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\Reverse_String.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Reverse_String\obj\Debug\net10.0\ref\Reverse_String.dll

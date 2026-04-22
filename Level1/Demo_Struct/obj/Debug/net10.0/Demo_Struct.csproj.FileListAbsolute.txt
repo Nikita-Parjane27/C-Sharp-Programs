@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\bin\Debug\net10.0\Demo_Struct.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\bin\Debug\net10.0\Demo_Struct.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\bin\Debug\net10.0\Demo_Struct.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\bin\Debug\net10.0\Demo_Struct.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\bin\Debug\net10.0\Demo_Struct.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\refint\Demo_Struct.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\Demo_Struct.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Demo_Struct\obj\Debug\net10.0\ref\Demo_Struct.dll

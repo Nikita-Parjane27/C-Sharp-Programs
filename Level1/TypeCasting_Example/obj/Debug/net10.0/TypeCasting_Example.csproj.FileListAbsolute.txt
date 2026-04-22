@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\bin\Debug\net10.0\TypeCasting_Example.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\bin\Debug\net10.0\TypeCasting_Example.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\bin\Debug\net10.0\TypeCasting_Example.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\bin\Debug\net10.0\TypeCasting_Example.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\bin\Debug\net10.0\TypeCasting_Example.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\refint\TypeCasting_Example.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\TypeCasting_Example.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\TypeCasting_Example\obj\Debug\net10.0\ref\TypeCasting_Example.dll

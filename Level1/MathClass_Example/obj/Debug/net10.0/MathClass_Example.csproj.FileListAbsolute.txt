@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\bin\Debug\net10.0\MathClass_Example.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\bin\Debug\net10.0\MathClass_Example.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\bin\Debug\net10.0\MathClass_Example.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\bin\Debug\net10.0\MathClass_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\bin\Debug\net10.0\MathClass_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\refint\MathClass_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\MathClass_Example.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\MathClass_Example\obj\Debug\net10.0\ref\MathClass_Example.dll

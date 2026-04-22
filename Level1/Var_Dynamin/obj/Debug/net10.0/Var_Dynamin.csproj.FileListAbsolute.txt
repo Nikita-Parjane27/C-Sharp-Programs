@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\bin\Debug\net10.0\Var_Dynamin.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\bin\Debug\net10.0\Var_Dynamin.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\bin\Debug\net10.0\Var_Dynamin.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\bin\Debug\net10.0\Var_Dynamin.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\bin\Debug\net10.0\Var_Dynamin.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\refint\Var_Dynamin.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\Var_Dynamin.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Var_Dynamin\obj\Debug\net10.0\ref\Var_Dynamin.dll

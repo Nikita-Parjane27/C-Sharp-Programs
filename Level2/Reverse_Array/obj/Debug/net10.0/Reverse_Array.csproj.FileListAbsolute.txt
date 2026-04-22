@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\bin\Debug\net10.0\Reverse_Array.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\bin\Debug\net10.0\Reverse_Array.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\bin\Debug\net10.0\Reverse_Array.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\bin\Debug\net10.0\Reverse_Array.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\bin\Debug\net10.0\Reverse_Array.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\refint\Reverse_Array.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\Reverse_Array.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Reverse_Array\obj\Debug\net10.0\ref\Reverse_Array.dll

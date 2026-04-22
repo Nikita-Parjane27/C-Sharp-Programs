@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\bin\Debug\net10.0\WhileLoop_Example.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\bin\Debug\net10.0\WhileLoop_Example.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\bin\Debug\net10.0\WhileLoop_Example.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\bin\Debug\net10.0\WhileLoop_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\bin\Debug\net10.0\WhileLoop_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\refint\WhileLoop_Example.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\WhileLoop_Example.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\WhileLoop_Example\obj\Debug\net10.0\ref\WhileLoop_Example.dll

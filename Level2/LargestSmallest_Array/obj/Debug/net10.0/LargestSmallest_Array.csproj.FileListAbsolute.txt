@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\bin\Debug\net10.0\LargestSmallest_Array.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\bin\Debug\net10.0\LargestSmallest_Array.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\bin\Debug\net10.0\LargestSmallest_Array.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\bin\Debug\net10.0\LargestSmallest_Array.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\bin\Debug\net10.0\LargestSmallest_Array.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\refint\LargestSmallest_Array.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\LargestSmallest_Array.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\LargestSmallest_Array\obj\Debug\net10.0\ref\LargestSmallest_Array.dll

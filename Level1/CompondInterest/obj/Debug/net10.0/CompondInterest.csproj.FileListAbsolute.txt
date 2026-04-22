@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\bin\Debug\net10.0\CompondInterest.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\bin\Debug\net10.0\CompondInterest.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\bin\Debug\net10.0\CompondInterest.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\bin\Debug\net10.0\CompondInterest.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\bin\Debug\net10.0\CompondInterest.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\refint\CompondInterest.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\CompondInterest.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\CompondInterest\obj\Debug\net10.0\ref\CompondInterest.dll

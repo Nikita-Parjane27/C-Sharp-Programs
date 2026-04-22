@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\bin\Debug\net10.0\ArrayElement_Search.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\bin\Debug\net10.0\ArrayElement_Search.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\bin\Debug\net10.0\ArrayElement_Search.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\bin\Debug\net10.0\ArrayElement_Search.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\bin\Debug\net10.0\ArrayElement_Search.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\refint\ArrayElement_Search.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ArrayElement_Search.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElement_Search\obj\Debug\net10.0\ref\ArrayElement_Search.dll

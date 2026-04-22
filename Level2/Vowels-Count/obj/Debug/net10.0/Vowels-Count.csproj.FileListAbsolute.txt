@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\bin\Debug\net10.0\Vowels-Count.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\bin\Debug\net10.0\Vowels-Count.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\bin\Debug\net10.0\Vowels-Count.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\bin\Debug\net10.0\Vowels-Count.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\bin\Debug\net10.0\Vowels-Count.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\refint\Vowels-Count.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\Vowels-Count.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\Vowels-Count\obj\Debug\net10.0\ref\Vowels-Count.dll

@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\bin\Debug\net10.0\Area_of_Circle.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\bin\Debug\net10.0\Area_of_Circle.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\bin\Debug\net10.0\Area_of_Circle.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\bin\Debug\net10.0\Area_of_Circle.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\bin\Debug\net10.0\Area_of_Circle.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\refint\Area_of_Circle.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\Area_of_Circle.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Circle\obj\Debug\net10.0\ref\Area_of_Circle.dll

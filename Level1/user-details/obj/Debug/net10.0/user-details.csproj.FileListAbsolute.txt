@@ -1,0 +1,14 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\bin\Debug\net10.0\user-details.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\bin\Debug\net10.0\user-details.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\bin\Debug\net10.0\user-details.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\bin\Debug\net10.0\user-details.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\bin\Debug\net10.0\user-details.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\refint\user-details.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\user-details.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\user-details\obj\Debug\net10.0\ref\user-details.dll

@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\bin\Debug\net10.0\Maatrix_Addition.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\bin\Debug\net10.0\Maatrix_Addition.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\bin\Debug\net10.0\Maatrix_Addition.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\bin\Debug\net10.0\Maatrix_Addition.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\bin\Debug\net10.0\Maatrix_Addition.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\refint\Maatrix_Addition.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\Maatrix_Addition.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\Maatrix_Addition\obj\Debug\net10.0\ref\Maatrix_Addition.dll

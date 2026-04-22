@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\bin\Debug\net10.0\Salary_Allowances.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\bin\Debug\net10.0\Salary_Allowances.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\bin\Debug\net10.0\Salary_Allowances.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\bin\Debug\net10.0\Salary_Allowances.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\bin\Debug\net10.0\Salary_Allowances.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\refint\Salary_Allowances.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\Salary_Allowances.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Salary_Allowances\obj\Debug\net10.0\ref\Salary_Allowances.dll

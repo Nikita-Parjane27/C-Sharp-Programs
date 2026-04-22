@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\bin\Debug\net10.0\Student_Grade.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\bin\Debug\net10.0\Student_Grade.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\bin\Debug\net10.0\Student_Grade.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\bin\Debug\net10.0\Student_Grade.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\bin\Debug\net10.0\Student_Grade.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\refint\Student_Grade.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\Student_Grade.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Student_Grade\obj\Debug\net10.0\ref\Student_Grade.dll

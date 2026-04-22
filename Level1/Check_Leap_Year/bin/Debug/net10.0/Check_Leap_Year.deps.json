@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Check_Leap_Year/1.0.0": {
+        "runtime": {
+          "Check_Leap_Year.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Check_Leap_Year/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

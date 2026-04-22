@@ -1,0 +1,15 @@
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\bin\Debug\net10.0\Area_of_Rectangle.exe
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\bin\Debug\net10.0\Area_of_Rectangle.deps.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\bin\Debug\net10.0\Area_of_Rectangle.runtimeconfig.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\bin\Debug\net10.0\Area_of_Rectangle.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\bin\Debug\net10.0\Area_of_Rectangle.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.AssemblyInfoInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.AssemblyInfo.cs
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.sourcelink.json
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\refint\Area_of_Rectangle.dll
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.pdb
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\Area_of_Rectangle.genruntimeconfig.cache
+C:\Users\Nikita\Documents\New folder\C-Sharp-Programs\Level1\Area_of_Rectangle\obj\Debug\net10.0\ref\Area_of_Rectangle.dll

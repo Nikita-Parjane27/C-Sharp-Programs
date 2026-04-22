@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\bin\Debug\net10.0\AnagramString.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\bin\Debug\net10.0\AnagramString.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\bin\Debug\net10.0\AnagramString.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\bin\Debug\net10.0\AnagramString.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\bin\Debug\net10.0\AnagramString.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\refint\AnagramString.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\AnagramString.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\AnagramString\obj\Debug\net10.0\ref\AnagramString.dll

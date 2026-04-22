@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\bin\Debug\net10.0\Enum_Demo.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\bin\Debug\net10.0\Enum_Demo.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\bin\Debug\net10.0\Enum_Demo.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\bin\Debug\net10.0\Enum_Demo.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\bin\Debug\net10.0\Enum_Demo.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\refint\Enum_Demo.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\Enum_Demo.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level1\Enum_Demo\obj\Debug\net10.0\ref\Enum_Demo.dll

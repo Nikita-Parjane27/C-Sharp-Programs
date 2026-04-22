@@ -1,0 +1,15 @@
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\bin\Debug\net10.0\ArrayElements_Display.exe
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\bin\Debug\net10.0\ArrayElements_Display.deps.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\bin\Debug\net10.0\ArrayElements_Display.runtimeconfig.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\bin\Debug\net10.0\ArrayElements_Display.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\bin\Debug\net10.0\ArrayElements_Display.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.sourcelink.json
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\refint\ArrayElements_Display.dll
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.pdb
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ArrayElements_Display.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\New folder (2)\C-Sharp-Programs\Level2\ArrayElements_Display\obj\Debug\net10.0\ref\ArrayElements_Display.dll

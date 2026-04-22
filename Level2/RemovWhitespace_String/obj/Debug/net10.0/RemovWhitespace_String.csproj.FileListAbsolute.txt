@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\bin\Debug\net10.0\RemovWhitespace_String.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\bin\Debug\net10.0\RemovWhitespace_String.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\bin\Debug\net10.0\RemovWhitespace_String.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\bin\Debug\net10.0\RemovWhitespace_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\bin\Debug\net10.0\RemovWhitespace_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\refint\RemovWhitespace_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\RemovWhitespace_String.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\RemovWhitespace_String\obj\Debug\net10.0\ref\RemovWhitespace_String.dll

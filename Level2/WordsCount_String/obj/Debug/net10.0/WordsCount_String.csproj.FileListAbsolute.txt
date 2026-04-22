@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\bin\Debug\net10.0\WordsCount_String.exe
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\bin\Debug\net10.0\WordsCount_String.deps.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\bin\Debug\net10.0\WordsCount_String.runtimeconfig.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\bin\Debug\net10.0\WordsCount_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\bin\Debug\net10.0\WordsCount_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.AssemblyInfo.cs
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.sourcelink.json
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\refint\WordsCount_String.dll
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.pdb
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\WordsCount_String.genruntimeconfig.cache
+C:\Users\sama\Documents\C-Sharp-Programs\Level2\WordsCount_String\obj\Debug\net10.0\ref\WordsCount_String.dll

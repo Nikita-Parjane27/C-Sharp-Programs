@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f382ac0f44dfb89e6c2761f402459ed996c2283d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,6 @@
+@ExceptionHandlingApp_HostAddress = http://localhost:5032
+
+GET {{ExceptionHandlingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

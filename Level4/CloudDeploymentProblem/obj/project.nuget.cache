@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KxompM6nQQ8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sama\\Documents\\New folder (3)\\C-Sharp-Programs\\Level4\\CloudDeploymentProblem\\CloudDeploymentProblem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sama\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\sama\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\sama\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\sama\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

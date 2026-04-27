@@ -1,0 +1,65 @@
+2026-04-27 14:54:23.927 +05:30 [INF] Executed DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+PRAGMA journal_mode = 'wal';
+2026-04-27 14:54:23.984 +05:30 [INF] Acquiring an exclusive lock for migration application. See https://aka.ms/efcore-docs-migrations-lock for more information if this takes too long.
+2026-04-27 14:54:23.997 +05:30 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsLock' AND "type" = 'table';
+2026-04-27 14:54:24.004 +05:30 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsLock" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK___EFMigrationsLock" PRIMARY KEY,
+    "Timestamp" TEXT NOT NULL
+);
+2026-04-27 14:54:24.010 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT OR IGNORE INTO "__EFMigrationsLock"("Id", "Timestamp") VALUES(1, '2026-04-27 09:24:24.0087621+00:00');
+SELECT changes();
+2026-04-27 14:54:24.144 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE IF NOT EXISTS "__EFMigrationsHistory" (
+    "MigrationId" TEXT NOT NULL CONSTRAINT "PK___EFMigrationsHistory" PRIMARY KEY,
+    "ProductVersion" TEXT NOT NULL
+);
+2026-04-27 14:54:24.163 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT COUNT(*) FROM "sqlite_master" WHERE "name" = '__EFMigrationsHistory' AND "type" = 'table';
+2026-04-27 14:54:24.171 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT "MigrationId", "ProductVersion"
+FROM "__EFMigrationsHistory"
+ORDER BY "MigrationId";
+2026-04-27 14:54:24.183 +05:30 [INF] Applying migration '20260427092413_InitialCreate'.
+2026-04-27 14:54:24.193 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE "Users" (
+    "Id" INTEGER NOT NULL CONSTRAINT "PK_Users" PRIMARY KEY AUTOINCREMENT,
+    "Username" TEXT NOT NULL,
+    "Email" TEXT NOT NULL,
+    "Password" TEXT NOT NULL,
+    "Role" TEXT NOT NULL,
+    "CreatedAt" TEXT NOT NULL
+);
+2026-04-27 14:54:24.195 +05:30 [INF] Executed DbCommand (0ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO "__EFMigrationsHistory" ("MigrationId", "ProductVersion")
+VALUES ('20260427092413_InitialCreate', '10.0.7');
+2026-04-27 14:54:24.198 +05:30 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+DELETE FROM "__EFMigrationsLock";
+2026-04-27 14:54:39.010 +05:30 [INF] Now listening on: http://localhost:5227
+2026-04-27 14:54:39.109 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-27 14:54:39.110 +05:30 [INF] Hosting environment: Development
+2026-04-27 14:54:39.112 +05:30 [INF] Content root path: C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level4\FinalApp
+2026-04-27 14:54:42.514 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/ - null null
+2026-04-27 14:54:42.644 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/ - 404 0 null 132.249ms
+2026-04-27 14:54:42.667 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5227/, Response status code: 404
+2026-04-27 14:54:49.109 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger - null null
+2026-04-27 14:54:49.119 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger - 301 0 null 10.9526ms
+2026-04-27 14:54:49.126 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/index.html - null null
+2026-04-27 14:54:49.288 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/index.html - 200 null text/html;charset=utf-8 162.0596ms
+2026-04-27 14:54:49.318 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/swagger-ui.css - null null
+2026-04-27 14:54:49.326 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/index.css - null null
+2026-04-27 14:54:49.342 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/swagger-ui-standalone-preset.js - null null
+2026-04-27 14:54:49.342 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/swagger-ui-bundle.js - null null
+2026-04-27 14:54:49.342 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/index.js - null null
+2026-04-27 14:54:49.369 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/index.css - 200 152 text/css 43.6588ms
+2026-04-27 14:54:49.370 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/swagger-ui.css - 200 26479 text/css 51.7936ms
+2026-04-27 14:54:49.371 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/index.js - 200 null application/javascript;charset=utf-8 29.0167ms
+2026-04-27 14:54:49.407 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/swagger-ui-bundle.js - 200 418181 text/javascript 65.3741ms
+2026-04-27 14:54:49.409 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/swagger-ui-standalone-preset.js - 200 76613 text/javascript 66.879ms
+2026-04-27 14:54:49.589 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/v1/swagger.json - null null
+2026-04-27 14:54:49.611 +05:30 [INF] Request starting HTTP/1.1 GET http://localhost:5227/swagger/favicon-32x32.png - null null
+2026-04-27 14:54:49.621 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/favicon-32x32.png - 200 628 image/png 9.8121ms
+2026-04-27 14:54:49.824 +05:30 [INF] Request finished HTTP/1.1 GET http://localhost:5227/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 234.5746ms
+2026-04-27 14:55:01.941 +05:30 [INF] Application is shutting down...

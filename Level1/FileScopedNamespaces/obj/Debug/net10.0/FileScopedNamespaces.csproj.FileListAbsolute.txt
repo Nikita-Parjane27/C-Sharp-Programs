@@ -1,0 +1,15 @@
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\bin\Debug\net10.0\FileScopedNamespaces.exe
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\bin\Debug\net10.0\FileScopedNamespaces.deps.json
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\bin\Debug\net10.0\FileScopedNamespaces.runtimeconfig.json
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\bin\Debug\net10.0\FileScopedNamespaces.dll
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\bin\Debug\net10.0\FileScopedNamespaces.pdb
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.AssemblyInfoInputs.cache
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.AssemblyInfo.cs
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.csproj.CoreCompileInputs.cache
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.sourcelink.json
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.dll
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\refint\FileScopedNamespaces.dll
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.pdb
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\FileScopedNamespaces.genruntimeconfig.cache
+C:\Users\sama\Documents\New folder (3)\C-Sharp-Programs\Level1\FileScopedNamespaces\obj\Debug\net10.0\ref\FileScopedNamespaces.dll
